@@ -1,4 +1,4 @@
-# Prediction-of-Heart-Disease-using-Data-Mining-and-Machine-Learning-Algorithms
+# Prediction of Heart Disease using Data Mining and Machine Learning Algorithms
 # Description
 • Developing a system that can predict the possibilities of heart disease with the help of DM & ML algorithms. The datasets that were used in the system are classified in terms of medical parameters.
 
